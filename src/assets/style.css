@@ -1,0 +1,23 @@
+.app-cart{
+    color: #d9534f;
+    font-size: 25px;
+}
+.app-cart-link{
+    margin-top: 10px;
+    background-color: #5cb85c;
+    border: none;
+}
+.navbar li a{
+    color: #ffffff !important;
+}
+.navbar{
+    background-color: gray !important;
+    border: none !important;
+    border-radius: 0 !important;
+}
+.navbar-brand{
+    color: #FFFFFF !important;
+}
+.app-items td{
+    text-align: center;
+}
