@@ -8,7 +8,6 @@
                 <p class="truncate">{{ item.description | shortDescription}}</p>
             </div>
             <div class="ratings margin-left-sm">
-               <span>{{ item.quantity }} left in stock</span>
                 <p class="pull-right">
                     <button 
                         class="btn btn-success"
