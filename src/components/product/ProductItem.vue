@@ -66,8 +66,12 @@
 </script>
 
 <style scoped>
+    .item{
+        height: 30%;
+    }
     div.thumbnail {
-        height: 100%;
+        height: 60%;
+        width: 70%;
     }
 	.favourite-icon {
 		font-size: 25px;
@@ -81,10 +85,6 @@
     .grow { 
         transition: all .2s ease-in-out; 
     }
-    .thumbnail:hover .grow { 
-        transform: scale(1.1); 
-    }
-
     .item.list-group-item {
         border: none;
         float: none;
